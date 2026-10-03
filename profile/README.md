@@ -3,22 +3,22 @@
   
   # H&S System By Design AB
   
-  **Mjukvara för meningsfulla lösningar**
+  **Software for meaningful solutions**
 </div>
 
 ---
 
-## Om oss
+## About Us
 
-System By Design utvecklar specialiserade, integritetsfokuserade och plattformsoberoende mjukvarulösningar för företag och privatpersoner. Vi brinner för att skapa applikationer som förenklar komplexa arbetsflöden och sätter användarens integritet i första rummet.
+System By Design develops specialized, privacy-focused, and cross-platform software solutions for businesses and individuals. We are passionate about creating applications that simplify complex workflows while putting user privacy first.
 
-## Våra Produkter
+## Our Products
 
 *   **[Qvitta](https://qvitta.se)** – Application for handling receipts and expenses seamlessly.
 *   **[Synapse Notes](https://synapse-notes.net)** – Note and task management designed for clarity and focus.
 *   **[Klimakterieappen](https://klimakterieappen.se)** – Health and tracking application focused on menopause support.
 
-## Kontakt
+## Contact
 
 *   🌐 [systembydesign.se](https://systembydesign.se)
 *   ✉️ [info@systembydesign.se](mailto:info@systembydesign.se)
